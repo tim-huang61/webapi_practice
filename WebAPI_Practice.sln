@@ -2,6 +2,8 @@
 Microsoft Visual Studio Solution File, Format Version 12.00
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebAPI_HttpResponseMessage", "WebAPI_HttpResponseMessage\WebAPI_HttpResponseMessage.csproj", "{E8A75639-FA88-4EEB-8791-5E913C231A57}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebApi_Cache", "WebApi_Cache\WebApi_Cache.csproj", "{1C53CFEF-F360-41A5-A55C-85F00DC05639}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -12,5 +14,9 @@ Global
 		{E8A75639-FA88-4EEB-8791-5E913C231A57}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E8A75639-FA88-4EEB-8791-5E913C231A57}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E8A75639-FA88-4EEB-8791-5E913C231A57}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1C53CFEF-F360-41A5-A55C-85F00DC05639}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1C53CFEF-F360-41A5-A55C-85F00DC05639}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1C53CFEF-F360-41A5-A55C-85F00DC05639}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1C53CFEF-F360-41A5-A55C-85F00DC05639}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
